@@ -1,5 +1,5 @@
 # Quoridor-Game
-I use Python to code this game
+used Python to write a simple but interesting game called Quoridor
 
 --------------------------------------------------------------------------------------------
 Rules:
